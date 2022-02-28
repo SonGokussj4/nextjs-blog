@@ -18,3 +18,10 @@ export default function Home() {
     </Layout>
   )
 }
+
+// Dynamic navigation
+// https://www.freecodecamp.org/news/dynamic-navigation-in-nextjs/
+
+// Navbar
+// https://www.freecodecamp.org/news/how-to-build-a-simple-navigation-bar-with-nextjs-and-styled-components-d9d8f9c8e8f9/
+// https://www.gyanblog.com/javascript/next-js-bootstrap-template-navbar-header/
